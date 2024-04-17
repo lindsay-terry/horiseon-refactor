@@ -12,9 +12,7 @@ N/A
 
 The navigation bar in the header of the webpage provides easy links to quickly navigate to each topic described further down on the page.  Clicking each link directly takes the user to the topic of choice.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+![horiseon-refactor-screenshot](./assets/images/horiseon-refactor-screenshot.png)
 
 ## Credits
 
